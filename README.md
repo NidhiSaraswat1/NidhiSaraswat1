@@ -80,9 +80,9 @@
       <p><b>Tech Stack:</b> <i>Time-series, Hugging Face</i></p>
       <p>
         <!-- ADD YOUR GITHUB REPO LINK IN THE HREF BELOW -->
-        <a href="#">🔗 GitHub Repo</a> | 
+        <a href="https://github.com/NidhiSaraswat1/Gold_Price_Prediction_">🔗 GitHub Repo</a> | 
         <!-- ADD YOUR VERCEL LIVE LINK IN THE HREF BELOW -->
-        <a href="#">🌐 Live Demo</a>
+        <a href="https://goldpricepredictionfrontend.vercel.app/">🌐 Live Demo</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -91,9 +91,9 @@
       <p><b>Tech Stack:</b> <i>CNN, 96% Accuracy</i></p>
       <p>
         <!-- ADD YOUR GITHUB REPO LINK IN THE HREF BELOW -->
-        <a href="#">🔗 GitHub Repo</a> | 
+        <a href="https://github.com/NidhiSaraswat1/German_Traffic_Sign_prediction_Using_CNN">🔗 GitHub Repo</a> | 
         <!-- ADD YOUR VERCEL LIVE LINK IN THE HREF BELOW -->
-        <a href="#">🌐 Live Demo</a>
+        <!-- <a href="#">🌐 Live Demo</a> -->
       </p>
     </td>
   </tr>
@@ -104,9 +104,9 @@
       <p><b>Tech Stack:</b> <i>XGBoost, GridSearchCV</i></p>
       <p>
         <!-- ADD YOUR GITHUB REPO LINK IN THE HREF BELOW -->
-        <a href="#">🔗 GitHub Repo</a> | 
+        <a href="https://github.com/NidhiSaraswat1/autism-prediction-ML">🔗 GitHub Repo</a> | 
         <!-- ADD YOUR VERCEL LIVE LINK IN THE HREF BELOW -->
-        <a href="#">🌐 Live Demo</a>
+        <!-- <a href="#">🌐 Live Demo</a> -->
       </p>
     </td>
     <td width="50%" valign="top">
