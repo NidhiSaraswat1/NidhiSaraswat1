@@ -25,7 +25,7 @@
 - 📜 **Certifications:** 
   - Machine Learning Crash Course (Google)
   - Deep Learning (Infosys)
-- 💡 **Interests:** Time-Series Forecasting, Computer Vision, Natural Language Processing, and Predictive Modeling.
+- 💡 **Interests:** Time-Series Forecasting, Computer Vision, Natural Language Processing, Generative AI and Predictive Modeling.
 - 📫 **How to reach me:** [nidhisaraswat2300@gmail.com](mailto:nidhisaraswat2300@gmail.com)
 
 ---
